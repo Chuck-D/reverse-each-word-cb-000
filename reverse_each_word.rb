@@ -21,6 +21,6 @@ end
 
 #better way 
 def reverse_each_word(sentence)
-  sentence.split(" ").collect{|flip| flip.reverse}.join(' ')}
+  sentence.split(" ").collect {|flip| flip.reverse}.join(' ')}
 
 end 
