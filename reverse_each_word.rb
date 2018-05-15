@@ -19,5 +19,5 @@ end
 
 #better way 
 def reverse_each_word(sentence)
-  sentence.split.collect{|sentence| flip
+  sentence.split.collect{|sentence| 
 end 
